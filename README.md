@@ -1,0 +1,1 @@
+This website is accessible on the web via this link: 0xdinoshark.github.io/landing-page
